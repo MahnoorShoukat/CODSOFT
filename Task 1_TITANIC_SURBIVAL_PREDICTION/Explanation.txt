@@ -1,0 +1,21 @@
+Task 1: Titanic Survival Prediction
+
+Statement:
+Use the Titanic dataset to build a model that predicts whether a
+passenger on the Titanic survived or not. This is a classic beginner
+project with readily available data.
+The dataset typically used for this project contains information
+about individual passengers, such as their age, gender, ticket
+class, fare, cabin, and whether or not they survived.
+
+Solution: 
+For this Titanic Survival Prediction task, I performed data 
+preprocessing , handling missing values, encoding categorical 
+variables, and developing a new feature called "Family-Size". 
+The data is visualized to obtain insights, and then it is 
+divided into test and training sets. Using training data, 
+a logistic regression model was trained and get an accuracy of 100%. 
+A classification report  and the visual representation of the 
+confusion matrix's is also displayed.
+
+Check TITANIC_SURVIVAL_PREDICTION files for details.

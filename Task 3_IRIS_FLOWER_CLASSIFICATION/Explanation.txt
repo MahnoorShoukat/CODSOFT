@@ -1,0 +1,29 @@
+Task 3: Iris Flower Classification
+
+Statement:
+The Iris flower dataset consists of three species: setosa, versicolor,
+and virginica. These species can be distinguished based on their
+measurements. Now, imagine that you have the measurements
+of Iris flowers categorized by their respective species. Your
+objective is to train a machine learning model that can learn from
+these measurements and accurately classify the Iris flowers into
+their respective species.
+
+Use the Iris dataset to develop a model that can classify iris
+flowers into different species based on their sepal and petal
+measurements. This dataset is widely used for introductory
+classification tasks.
+
+Solution: 
+In this Iris Flower Classification task, I have used the 
+Iris dataset to create a model for categorizing iris flowers 
+into several species based on the measurements of its sepal and 
+petals. Have performed Data pre-processing, Data Visulatisation, 
+Data encoding, partitioning the data into training and testing sets 
+and then trained a K-Nearest Neighbors (KNN) classifier. 
+The classification report and confusion matrix heatmap show that 
+the model performed excellently in correctly classifying iris flowers 
+into their respective species, with a remarkable accuracy of 100%.
+
+
+Check IRIS_FLOWER_CLASSIFICATION files for details.
